@@ -1,0 +1,195 @@
+#logo {
+    position: absolute;
+    width: 56px;
+    height: 34.17px;
+    left: 120px;
+    top: 39px;
+}
+
+#logo-text {
+    position: absolute;
+    width: 167px;
+    height: 38px;
+    left: 189px;
+    top: 39px;
+}
+
+#nav-about {
+    position: absolute;
+    width: 60px;
+    left: 644px;
+}
+
+#nav-promotion {
+    position: absolute;
+    width: 65px;
+    left: 794px;
+}
+
+#nav-shop {
+    position: absolute;
+    width: 34px;
+    left: 949px;
+}
+
+#nav-cont {
+    position: absolute;
+    width: 55px;
+    left: 1073px;
+}
+
+#nav-about,
+#nav-promotion,
+#nav-shop,
+#nav-cont,
+#button-contact {
+    height: 16px;
+    top: 50px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: justify;
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#button-contact {
+    position: absolute;
+    width: 135px;
+    height: 43px;
+    left: 1185px;
+    top: 36px;
+    background: #2D635E;
+    mix-blend-mode: normal;
+    box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 7px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: none
+}
+
+#slogan {
+    position: absolute;
+    width: 414px;
+    height: 53px;
+    left: 120px;
+    top: 235px;
+    font-family: 'Cedarville Cursive', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 53px;
+    color: #444A4A;
+}
+
+#cs {
+    position: absolute;
+    width: 515px;
+    height: 63px;
+    left: 117px;
+    top: 314px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 63px;
+    line-height: 63px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 63px;
+    line-height: 63px;
+}
+
+#button-order {
+    position: absolute;
+    width: 235px;
+    height: 54px;
+    left: 120px;
+    top: 403px;
+}
+
+nav img {
+    position: absolute;
+    width: 344px;
+    height: 373px;
+    left: 877px;
+    top: 269px;
+}
+
+.social {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1288px;
+    top: 348px;
+}
+
+#follow {
+    position: absolute;
+    width: 109px;
+    height: 28px;
+    left: 1292px;
+    top: 595px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 28px;
+    color: #444A4A;
+    transform: rotate(-90deg);
+}
+
+#about-us {
+    position: absolute;
+    width: 116px;
+    height: 53px;
+    left: 106px;
+    top: 881px;
+    font-family: 'Cedarville Cursive';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 53px;
+    color: #000000;
+    opacity: 0.75;
+    transform: rotate(-90deg);
+}
+
+#cup {
+    position: absolute;
+    width: 364.59px;
+    height: 262.96px;
+    left: 148px;
+    top: 867px;
+}
+
+#info {
+    position: absolute;
+    width: 645px;
+    height: 290px;
+    left: 603px;
+    top: 792px;
+}
+
+#info h2 {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 38px;
+}
+
+#info p {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 36px;
+    letter-spacing: 0.001em;
+    color: #444A4A;
+}
